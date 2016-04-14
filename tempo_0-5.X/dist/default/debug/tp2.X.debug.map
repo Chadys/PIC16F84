@@ -1,0 +1,40 @@
+MPLINK 5.08, LINKER
+Linker Map File - Created Thu Mar 24 15:24:40 2016
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x00002e
+                   .cinit    romdata   0x000017    program   0x000004
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000018      
+            25 out of 1093 program addresses used, program memory utilization is 2%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   Boucle   0x000003    program     static /home/julie/Licence/Archi2/tp2.X/newpic_8b_simple.asm
+                    Suite   0x000006    program     static /home/julie/Licence/Archi2/tp2.X/newpic_8b_simple.asm
+                     Temp   0x000009    program     static /home/julie/Licence/Archi2/tp2.X/newpic_8b_simple.asm
+                    Temp2   0x00000b    program     static /home/julie/Licence/Archi2/tp2.X/newpic_8b_simple.asm
+                    Temp3   0x00000d    program     static /home/julie/Licence/Archi2/tp2.X/newpic_8b_simple.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   Boucle   0x000003    program     static /home/julie/Licence/Archi2/tp2.X/newpic_8b_simple.asm
+                    Suite   0x000006    program     static /home/julie/Licence/Archi2/tp2.X/newpic_8b_simple.asm
+                     Temp   0x000009    program     static /home/julie/Licence/Archi2/tp2.X/newpic_8b_simple.asm
+                    Temp2   0x00000b    program     static /home/julie/Licence/Archi2/tp2.X/newpic_8b_simple.asm
+                    Temp3   0x00000d    program     static /home/julie/Licence/Archi2/tp2.X/newpic_8b_simple.asm
+
+

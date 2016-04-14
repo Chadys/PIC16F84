@@ -1,0 +1,32 @@
+MPLINK 5.08, LINKER
+Linker Map File - Created Thu Apr  7 16:11:55 2016
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x00001a
+                   .cinit    romdata   0x00000d    program   0x000004
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x00000e      
+            15 out of 1093 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   BOUCLE   0x000004    program     static /home/julie/MPLABXProjects/compteur9.X/newpic_8b_simple.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   BOUCLE   0x000004    program     static /home/julie/MPLABXProjects/compteur9.X/newpic_8b_simple.asm
+
+

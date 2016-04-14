@@ -1,0 +1,17 @@
+    title "program"
+    list p=16F84, f=inhx8m
+    INCLUDE "p16f84a.inc"
+    
+	org 0
+	BSF	STATUS, RP0
+	CLRF    TRISB
+	BCF	OPTION_REG, T0CS
+	BCF	STATUS, RP0
+BOUCLE	MOVF	TMR0,w
+	MOVWF	PORTB
+	MOVLW	9
+	SUBWF	TMR0,w
+	BTFSC	STATUS, Z
+	CLRF	TMR0
+	GOTO	BOUCLE
+	End

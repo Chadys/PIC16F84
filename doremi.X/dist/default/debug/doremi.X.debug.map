@@ -1,0 +1,48 @@
+MPLINK 5.08, LINKER
+Linker Map File - Created Thu Apr  7 16:51:53 2016
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000068
+                   .cinit    romdata   0x000034    program   0x000004
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000035      
+            54 out of 1093 program addresses used, program memory utilization is 4%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    START   0x000003    program     static /home/julie/MPLABXProjects/doremi.X/newpic_8b_simple.asm
+                       do   0x000024    program     static /home/julie/MPLABXProjects/doremi.X/newpic_8b_simple.asm
+                      do2   0x000032    program     static /home/julie/MPLABXProjects/doremi.X/newpic_8b_simple.asm
+                       fa   0x00002a    program     static /home/julie/MPLABXProjects/doremi.X/newpic_8b_simple.asm
+                       la   0x00002e    program     static /home/julie/MPLABXProjects/doremi.X/newpic_8b_simple.asm
+                       mi   0x000028    program     static /home/julie/MPLABXProjects/doremi.X/newpic_8b_simple.asm
+                       re   0x000026    program     static /home/julie/MPLABXProjects/doremi.X/newpic_8b_simple.asm
+                       si   0x000030    program     static /home/julie/MPLABXProjects/doremi.X/newpic_8b_simple.asm
+                      sol   0x00002c    program     static /home/julie/MPLABXProjects/doremi.X/newpic_8b_simple.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    START   0x000003    program     static /home/julie/MPLABXProjects/doremi.X/newpic_8b_simple.asm
+                       do   0x000024    program     static /home/julie/MPLABXProjects/doremi.X/newpic_8b_simple.asm
+                       re   0x000026    program     static /home/julie/MPLABXProjects/doremi.X/newpic_8b_simple.asm
+                       mi   0x000028    program     static /home/julie/MPLABXProjects/doremi.X/newpic_8b_simple.asm
+                       fa   0x00002a    program     static /home/julie/MPLABXProjects/doremi.X/newpic_8b_simple.asm
+                      sol   0x00002c    program     static /home/julie/MPLABXProjects/doremi.X/newpic_8b_simple.asm
+                       la   0x00002e    program     static /home/julie/MPLABXProjects/doremi.X/newpic_8b_simple.asm
+                       si   0x000030    program     static /home/julie/MPLABXProjects/doremi.X/newpic_8b_simple.asm
+                      do2   0x000032    program     static /home/julie/MPLABXProjects/doremi.X/newpic_8b_simple.asm
+
+

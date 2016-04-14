@@ -1,0 +1,3 @@
+Message[302] /home/julie/Licence/Archi2/tp2.X/newpic_8b_simple.asm 12 : Register in operand not in bank 0.  Ensure that bank bits are correct.
+Warning[202] /home/julie/Licence/Archi2/tp2.X/newpic_8b_simple.asm 24 : Argument out of range.  Least significant bits used.
+Message[305] /home/julie/Licence/Archi2/tp2.X/newpic_8b_simple.asm 35 : Using default destination of 1 (file).

@@ -1,0 +1,2 @@
+Message[301] /opt/microchip/mplabx/v3.26/mpasmx/p16f84a.inc 34 : MESSAGE: (Processor-header file mismatch.  Verify selected processor.)
+Message[302] /home/julie/MPLABXProjects/compteur9.X/newpic_8b_simple.asm 7 : Register in operand not in bank 0.  Ensure that bank bits are correct.
