@@ -1,2 +1,2 @@
 # PIC16F84
-You can simulate then in "MPLAB- X IDE"
+You can simulate them in "MPLAB- X IDE"
